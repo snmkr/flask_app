@@ -2,8 +2,8 @@
 
 # Variables
 AWS_REGION="ap-south-1"
-ECR_REPOSITORY_NAME="api-base"
-IMAGE_NAME="api-base"
+ECR_REPOSITORY_NAME="flask-app"
+IMAGE_NAME="flask-app"
 TAG="latest"
 
 # Get AWS account ID
